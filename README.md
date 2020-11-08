@@ -7,4 +7,4 @@ My name is Timofei and I'm currently studying Front-End Development, namely such
 
 Feel free to look through my repositories to observe my progress. If you are willing to contact me, you can do it easily via my 💬 [Telegram](t.me/timofei_benko) or my email ✉️ timofeibenko@gmail.com)
 
-https://www.codewars.com/users/moriturus/badges/large
++ <img src="https://www.codewars.com/users/moriturus/badges/large">
